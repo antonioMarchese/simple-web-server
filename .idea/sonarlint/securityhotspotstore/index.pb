@@ -1,0 +1,10 @@
+
+9
+	server.py,3\7\37f78d9e69dff05b443a39c32175987bb0cbdccd
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
+;
+CGI_time.py,8\0\80f6febd2289d9e07872199dde29a541e445912d
+9
+	templates,7\9\7981a4e7e9bdc02180a3c3d1a6b2adf0ba424b1c
